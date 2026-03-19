@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "furatsmps3.aternos.me",
-    "port": 16948,
+    "ip": "furatsmp.mcsh.io",
+    "port": 11621,
     "version": "",
     "try-creative": false
   },
